@@ -1,0 +1,488 @@
+[
+    {
+        "id": "DDLF",
+        "name": "ダンベルデッドリフト",
+        "muscle": "ハムストリング",
+        "body_part": "脚",
+        "equipment": [
+            "ダンベル"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "SHRG",
+        "name": "サポーテッドワンハンドシュラッグ",
+        "muscle": "僧帽筋",
+        "body_part": "肩",
+        "equipment": [
+            "ダンベル",
+            "ベンチ"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "BSQT",
+        "name": "ブルガリアンスクワット",
+        "muscle": "大腿四頭筋",
+        "body_part": "脚",
+        "equipment": [],
+        "support": "なし"
+    },
+    {
+        "id": "DFLY",
+        "name": "ダンベルフライ",
+        "muscle": "大胸筋",
+        "body_part": "胸",
+        "equipment": [
+            "ダンベル",
+            "ベンチ"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "LGRS",
+        "name": "レッグレイズ",
+        "muscle": "腹直筋",
+        "body_part": "コア",
+        "equipment": [],
+        "support": "なし"
+    },
+    {
+        "id": "PLVR",
+        "name": "プルオーバーエクステンション",
+        "muscle": "広背筋",
+        "body_part": "背中",
+        "equipment": [
+            "ダンベル",
+            "ベンチ"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "SLRR",
+        "name": "サイドライイングリアレイズ",
+        "muscle": "外転筋",
+        "body_part": "脚",
+        "equipment": [],
+        "support": "なし"
+    },
+    {
+        "id": "ICRL",
+        "name": "インクラインダンベルカール",
+        "muscle": "二頭筋",
+        "body_part": "腕",
+        "equipment": [
+            "ダンベル",
+            "ベンチ"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "ISLR",
+        "name": "インクラインサイドレイズ",
+        "muscle": "デルtoid",
+        "body_part": "肩",
+        "equipment": [
+            "ダンベル",
+            "ベンチ"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "WCRL",
+        "name": "リストカール",
+        "muscle": "前腕",
+        "body_part": "腕",
+        "equipment": [
+            "ダンベル"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "ATWT",
+        "name": "アームツイスト",
+        "muscle": "肩",
+        "body_part": "肩",
+        "equipment": [],
+        "support": "なし"
+    },
+    {
+        "id": "RTWT",
+        "name": "ロシアンツイスト",
+        "muscle": "腹斜筋",
+        "body_part": "コア",
+        "equipment": [],
+        "support": "なし"
+    },
+    {
+        "id": "CLVR",
+        "name": "ワンレッグカーフレイズ",
+        "muscle": "腓腹筋",
+        "body_part": "脚",
+        "equipment": [],
+        "support": "なし"
+    },
+    {
+        "id": "BCRN",
+        "name": "ボールクランチ",
+        "muscle": "腹直筋",
+        "body_part": "コア",
+        "equipment": [
+            "エクササイズボール"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "BHMC",
+        "name": "ボール・ハムストリングカール",
+        "muscle": "ハムストリング",
+        "body_part": "脚",
+        "equipment": [
+            "エクササイズボール"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "DBPS",
+        "name": "ダンベルベンチプレス",
+        "muscle": "大胸筋",
+        "body_part": "胸",
+        "equipment": [
+            "ダンベル",
+            "ベンチ"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "NBPS",
+        "name": "ナローベンチプレス",
+        "muscle": "大胸筋",
+        "body_part": "胸",
+        "equipment": [
+            "ダンベル",
+            "ベンチ"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "IRCR",
+        "name": "インクライン・リバースクランチ",
+        "muscle": "腹直筋",
+        "body_part": "コア",
+        "equipment": [],
+        "support": "なし"
+    },
+    {
+        "id": "DPLV",
+        "name": "デクラインダンベルプルオーバー",
+        "muscle": "広背筋",
+        "body_part": "背中",
+        "equipment": [
+            "ダンベル",
+            "ベンチ"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "SSQT",
+        "name": "シシースクワット",
+        "muscle": "大腿四頭筋",
+        "body_part": "脚",
+        "equipment": [],
+        "support": "なし"
+    },
+    {
+        "id": "SQUT",
+        "name": "スクワット",
+        "muscle": "大腿四頭筋",
+        "body_part": "脚",
+        "equipment": [],
+        "support": "なし"
+    },
+    {
+        "id": "DFLG",
+        "name": "ドラゴンフラッグ",
+        "muscle": "腹直筋",
+        "body_part": "コア",
+        "equipment": [],
+        "support": "なし"
+    },
+    {
+        "id": "IFLY",
+        "name": "インクラインダンベルフライ",
+        "muscle": "大胸筋",
+        "body_part": "胸",
+        "equipment": [
+            "ダンベル",
+            "ベンチ"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "DROW",
+        "name": "ワンハンドダンベルロウ",
+        "muscle": "広背筋",
+        "body_part": "背中",
+        "equipment": [
+            "ダンベル",
+            "ベンチ"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "PSUP",
+        "name": "プッシュアップ",
+        "muscle": "大胸筋",
+        "body_part": "胸",
+        "equipment": [],
+        "support": "なし"
+    },
+    {
+        "id": "IPRS",
+        "name": "ダンベルインクラインプレス",
+        "muscle": "大胸筋",
+        "body_part": "胸",
+        "equipment": [
+            "ダンベル",
+            "ベンチ"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "DPRS",
+        "name": "ダンベルデクラインプレス",
+        "muscle": "大胸筋",
+        "body_part": "胸",
+        "equipment": [
+            "ダンベル",
+            "ベンチ"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "CDIP",
+        "name": "チェストディップ",
+        "muscle": "大胸筋",
+        "body_part": "胸",
+        "equipment": [],
+        "support": "なし"
+    },
+    {
+        "id": "PLVO",
+        "name": "ダンベルプルオーバー",
+        "muscle": "広背筋",
+        "body_part": "背中",
+        "equipment": [
+            "ダンベル",
+            "ベンチ"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "DROW",
+        "name": "ダンベルロウ",
+        "muscle": "広背筋",
+        "body_part": "背中",
+        "equipment": [
+            "ダンベル",
+            "ベンチ"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "RFLY",
+        "name": "リバースフライ",
+        "muscle": "後デルtoid",
+        "body_part": "肩",
+        "equipment": [
+            "ダンベル",
+            "ベンチ"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "OHPS",
+        "name": "ダンベルオーバーヘッドプレス",
+        "muscle": "デルtoid",
+        "body_part": "肩",
+        "equipment": [
+            "ダンベル"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "ARPS",
+        "name": "アーノルドプレス",
+        "muscle": "デルtoid",
+        "body_part": "肩",
+        "equipment": [
+            "ダンベル"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "FRNT",
+        "name": "ダンベルフロントレイズ",
+        "muscle": "前デルtoid",
+        "body_part": "肩",
+        "equipment": [
+            "ダンベル"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "UPRW",
+        "name": "アップライトロウ",
+        "muscle": "デルtoid",
+        "body_part": "肩",
+        "equipment": [
+            "ダンベル"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "RDLT",
+        "name": "リアデルトフライ",
+        "muscle": "後デルtoid",
+        "body_part": "肩",
+        "equipment": [
+            "ダンベル",
+            "ベンチ"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "BCRL",
+        "name": "ダンベルバイセップカール",
+        "muscle": "二頭筋",
+        "body_part": "腕",
+        "equipment": [
+            "ダンベル"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "HMCL",
+        "name": "ハンマーカール",
+        "muscle": "二頭筋",
+        "body_part": "腕",
+        "equipment": [
+            "ダンベル"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "RVCL",
+        "name": "リバースカール",
+        "muscle": "前腕",
+        "body_part": "腕",
+        "equipment": [
+            "ダンベル"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "TEXT",
+        "name": "ダンベルトライセップエクステンション",
+        "muscle": "上腕三頭筋",
+        "body_part": "腕",
+        "equipment": [
+            "ダンベル"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "TCKB",
+        "name": "トライセップキックバック",
+        "muscle": "上腕三頭筋",
+        "body_part": "腕",
+        "equipment": [
+            "ダンベル"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "FRPS",
+        "name": "ダンベルフレンチプレス",
+        "muscle": "上腕三頭筋",
+        "body_part": "腕",
+        "equipment": [
+            "ダンベル",
+            "ベンチ"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "WEXT",
+        "name": "リストエクステンション",
+        "muscle": "前腕",
+        "body_part": "腕",
+        "equipment": [
+            "ダンベル"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "DLNG",
+        "name": "ダンベルランジ",
+        "muscle": "大腿四頭筋",
+        "body_part": "脚",
+        "equipment": [
+            "ダンベル"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "STUP",
+        "name": "ステップアップ",
+        "muscle": "大腿四頭筋",
+        "body_part": "脚",
+        "equipment": [
+            "ダンベル",
+            "ベンチ"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "CFRS",
+        "name": "カーフレイズ",
+        "muscle": "腓腹筋",
+        "body_part": "脚",
+        "equipment": [],
+        "support": "なし"
+    },
+    {
+        "id": "RMDL",
+        "name": "ルーマニアンデッドリフト",
+        "muscle": "ハムストリング",
+        "body_part": "脚",
+        "equipment": [
+            "ダンベル"
+        ],
+        "support": "なし"
+    },
+    {
+        "id": "GBRG",
+        "name": "グラテブリッジ",
+        "muscle": "大臀筋",
+        "body_part": "脚",
+        "equipment": [],
+        "support": "なし"
+    },
+    {
+        "id": "PSQT",
+        "name": "ピストルスクワット",
+        "muscle": "大腿四頭筋",
+        "body_part": "脚",
+        "equipment": [],
+        "support": "なし"
+    },
+    {
+        "id": "PLNK",
+        "name": "プランク",
+        "muscle": "腹直筋",
+        "body_part": "コア",
+        "equipment": [],
+        "support": "なし"
+    }
+]
