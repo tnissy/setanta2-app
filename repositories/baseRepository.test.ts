@@ -1,5 +1,5 @@
-import { BaseRepository } from '../services/baseRepository';
-import { TrainingPlan } from '../types/TrainingPlan';
+import { BaseRepository } from './baseRepository';
+import { TrainingPlan } from '../src/types/TrainingPlan';
 import { doc, getDoc, setDoc } from 'firebase/firestore';
 
 // Language: typescript
